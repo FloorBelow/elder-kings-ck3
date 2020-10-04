@@ -1358,7 +1358,7 @@
 1357;86;114;98;b_laesten;x;
 1358;143;114;98;b_wildsung;x;
 1359;119;95;82;b_sagard;x;
-1360;103;129;144;b_myrwatch;x;
+1360;52;86;107;b_myrwatch;x;
 1361;155;79;158;b_valkygg;x;
 1362;178;90;181;b_helmsdeep;x;
 1363;132;67;135;b_labyrinthian;x;
@@ -1389,8 +1389,8 @@
 1388;16;56;124;b_karthmouth;x;
 1389;90;158;158;b_aldhelm;x;
 1390;77;135;135;b_svellfold;x;
-1391;61;11;38;b_dour;x;
-1392;84;15;53;b_solitude;x;
+1391;61;11;38;b_solitude;x;
+1392;84;15;53;b_dour;x;
 1393;107;19;67;b_blue_palace;x;
 1394;122;22;77;b_harbourside;x;
 1395;58;67;163;b_ironback;x;
@@ -1398,7 +1398,7 @@
 1397;54;62;150;b_helstead;x;
 1398;94;145;255;b_wolfskull;x;
 1399;84;133;229;b_helgar;x;
-1400;77;121;209;b_killreath;x;
+1400;77;121;209;b_kilkreath;x;
 1401;137;24;86;b_steedhold;x;
 1402;153;27;96;b_katla;x;
 1403;17;37;170;b_hag_end;x;
@@ -1413,5 +1413,9 @@
 1412;91;89;209;b_jallenheim;x
 1413;112;109;255;b_clearpine;x;
 1414;183;0;0;b_forgotten_vale;x;
-1415;114;145;165;b_guthlac;x;
-1416;108;138;155;b_dresten;x;
+1415;66;108;135;b_guthlac;x;
+1416;59;98;122;b_dresten;x;
+1417;107;119;14;b_blackbone;x;
+1418;66;36;14;b_icereach;x;
+1419;61;33;13;b_grenivik;x;
+1420;68;37;15;b_unhrug;x;

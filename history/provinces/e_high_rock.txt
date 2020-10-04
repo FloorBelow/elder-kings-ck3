@@ -1161,7 +1161,7 @@
 ####c_watcher_hold
 
 247 = { #b_watcher_hold
-	culture = northmen
+	culture = glenumbran
 	religion = breton_cult
 	
 	holding = castle_holding
@@ -1179,7 +1179,7 @@
 ####c_frostbreak
 
 252 = { #b_frostbreak
-	culture = northmen
+	culture = reachmen
 	religion = breton_cult
 	
 	holding = castle_holding
@@ -1378,6 +1378,9 @@
 }
 290 = { #b_navare
 	holding = church_holding
+}
+1417 = { #b_blackbone
+	holding = none
 }
 
 ####c_jehanna

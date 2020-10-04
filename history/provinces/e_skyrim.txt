@@ -241,7 +241,7 @@
 
 ###c_nimalten
 
-1002 = { #b_nimalten
+1003 = { #b_valtgard
 	culture = eastmarcher
 	religion = nord_cult
 	
@@ -253,8 +253,8 @@
 1001 = { #b_grethel_vigil
 	holding = none
 }
-1003 = { #b_valtgard
-	holding = none
+1002 = { #b_nimalten
+	holding = city_holding
 }
 
 ###c_honrich
@@ -418,7 +418,7 @@
 
 ###c_autumnshade
 
-1036 = { #b_autumnshade
+1037 = { #b_faldar_tooth
 	culture = eastmarcher
 	religion = nord_cult
 	
@@ -427,7 +427,7 @@
 1035 = { #b_boulderfall
 	holding = none
 }
-1037 = { #b_faldar_tooth
+1036 = { #b_autumnshade
 	holding = none
 }
 
@@ -2167,11 +2167,11 @@
 	
 	holding = castle_holding
 }
-1391 = { #b_solitude
-	holding = city_holding
-}
-1392 = { #b_dour
+1391 = { #b_dour
 	holding = castle_holding
+}
+1392 = { #b_solitude
+	holding = city_holding
 }
 1394 = { #b_harbourside
 	holding = none
@@ -2192,9 +2192,9 @@
 	holding = none
 }
 
-###c_killreath
+###c_kilkreath
 
-1400 = { #b_killreath
+1400 = { #b_kilkreath
 	culture = westmarcher
 	religion = nord_cult
 	
@@ -2273,5 +2273,20 @@
 	holding = none
 }
 1413 = { #b_clearpine
+	holding = none
+}
+
+###c_icereach
+
+1418 = { #b_icereach
+	culture = reachmen
+	religion = hagraven_cult
+
+	holding = castle_holding
+}
+1419 =  { #b_grenivik
+	holding = church_holding
+}
+1420 = { #b_unhrug 
 	holding = none
 }
