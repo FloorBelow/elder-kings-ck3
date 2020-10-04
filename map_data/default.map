@@ -1,4 +1,4 @@
-#max_provinces = 1466
+﻿#max_provinces = 1466
 definitions = "definition.csv"
 provinces = "provinces.png"
 #positions = "positions.txt"
@@ -93,7 +93,7 @@ impassable_mountains = LIST { 148 149 }
 # They are probably not visible anywhere on the map, so feel free to reuse them (after double checking that they are actually missing).
 
 #Forgotten Vale
-impassable_mountains = LIST { 454 }
+impassable_mountains = LIST { 1414 }
 
 #Skuldafn
 impassable_mountains = LIST { 1096 }
