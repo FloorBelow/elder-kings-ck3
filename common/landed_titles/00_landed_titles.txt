@@ -204,7 +204,7 @@ e_hammerfell = {
 					color2 = { 0 0 0 }
 				}
 			}
-			c_sandblown = {
+			c_hoonding_watch = {
 				color = { 200 80 180 }
 				color2 = { 0 0 0 }
 				
@@ -7474,6 +7474,12 @@ e_skyrim = {
 
 			capital = c_amberguard
 			
+			cultural_names = {
+				westmarcher = cn_hjaalvale
+				eastmarcher = cn_hjaalvale
+				cyro_nord = cn_hjaalvale
+			}
+			
 			c_amberguard = {
 				color = { 120 110 150 }
 				color2 = { 0 0 0 }
@@ -8873,7 +8879,6 @@ e_skyrim = {
 			mountain_orc = cn_falcrenth
 			iron_orc = cn_falcrenth
 			wood_orc = cn_falcrenth
-			reachmen = cn_falkreath
 		}
 
 		capital = c_falkreath
