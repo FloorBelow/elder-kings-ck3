@@ -1498,8 +1498,8 @@
 1497;122;80;84;b_gearagh;x;
 1498;91;60;63;b_arkngthamz;x;
 1499;107;70;73;b_rockwatch;x;
-1500;57;52;76;b_reachcliff;x;
-1501;74;67;99;b_reachwater;x;
+1500;74;67;99;b_reachcliff;x; 
+1501;57;52;76;b_reachwater;x;
 1502;85;78;114;b_reachwind;x;
 1503;97;88;130;b_eyrie;x;
 1504;75;142;84;b_dushnikh;x;

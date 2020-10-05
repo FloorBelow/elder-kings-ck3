@@ -8258,6 +8258,12 @@ e_skyrim = {
 			c_darkfall = {
 				color = { 140 170 200 }
 				color2 = { 0 0 0 }
+				
+				cultural_names = {
+					mountain_orc = cn_khazgur
+					iron_orc = cn_khazgur
+					wood_orc = cn_khazgur
+				}
 
 				b_mor_khazgur = {
 					province = 1421

@@ -2321,10 +2321,10 @@
 ###c_chillbain
 
 1426 = { #b_chillbain
-	culture = reachmen
-	religion = old_gods
+	culture = westmarcher
+	religion = nord_cult
 
-	holding = tribal_holding
+	holding = castle_holding
 }
 1427 =  { #b_cliffside
 	holding = none
@@ -2489,10 +2489,10 @@
 	culture = reachmen
 	religion = old_gods
 
-	holding = tribal_holding
+	holding = castle_holding
 }
 1460 =  { #b_markarth
-	holding = none
+	holding = city_holding
 }
 1461 = { #b_salvius 
 	holding = none

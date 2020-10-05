@@ -45,7 +45,7 @@ title_high_king = { #High King
 	special = holder
 	priority = 120
 	titles = { e_skyrim e_hammerfell e_high_rock }
-	governments = { feudal_government clan_government }
+	governments = { feudal_government clan_government tribal_government }
 	top_liege = no
 }
 
@@ -55,7 +55,7 @@ title_high_queen = { #High Queen
 	special = holder
 	priority = 120
 	titles = { e_skyrim e_hammerfell e_high_rock }
-	governments = { feudal_government clan_government }
+	governments = { feudal_government clan_government tribal_government }
 	top_liege = no
 }
 
@@ -64,7 +64,7 @@ title_high_kingdom = { #High Kingdom
 	tier = empire
 	priority = 120
 	titles = { e_skyrim e_hammerfell e_high_rock }
-	governments = { feudal_government clan_government }
+	governments = { feudal_government clan_government tribal_government }
 	top_liege = no
 }
 
@@ -383,6 +383,52 @@ duchy_tribal_tribe = { #Tribe
 	only_independent = yes
 	governments = { tribal_government }
 	cultures = { mountain_orc iron_orc wood_orc horsemen reachmen }
+}
+
+#Reachmen Culture
+
+duke_feudal_tribal_independent_male_reachmen = { #Ard
+	type = character
+	special = holder
+	gender = male
+	tier = duchy
+	priority = 28
+	only_independent = yes
+	governments = { feudal_government tribal_government }
+	cultures = { reachmen }
+	top_liege = no
+}
+duke_feudal_tribal_independent_female_reachmen = { #Ard
+	type = character
+	special = holder
+	gender = female
+	tier = duchy
+	priority = 28
+	only_independent = yes
+	governments = { feudal_government tribal_government }
+	cultures = { reachmen }
+	top_liege = no
+}
+
+king_feudal_tribal_male_reachmen = { #Ard
+	type = character
+	special = holder
+	gender = male
+	tier = kingdom
+	priority = 48
+	governments = { feudal_government tribal_government }
+	cultures = { reachmen }
+	top_liege = no
+}
+king_feudal_tribal_female_reachmen = { #Ard
+	type = character
+	special = holder
+	gender = female
+	tier = kingdom
+	priority = 48
+	governments = { feudal_government tribal_government }
+	cultures = { reachmen }
+	top_liege = no
 }
 
 #Nordic Group
