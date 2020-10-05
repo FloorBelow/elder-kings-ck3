@@ -26,6 +26,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 422;440;sea;315;-1;-1;-1;-1;Aswala-Forsaken Hearts Isle
 478;480;sea;546;-1;-1;-1;-1;Port Hunding-Saintsport
 466;488;sea;541;-1;-1;-1;-1;Hegathe-Pharos Isle
+#YOKUDA
+689;690;sea;48;-1;-1;-1;-1;Khamsa-Asil Yelir
+612;646;sea;48;-1;-1;-1;-1;Nar-Shad-Irranhu
+647;646;sea;48;-1;-1;-1;-1;Soko-Irranhu
 #SKYRIM
 1023;1024;sea;990;-1;-1;-1;-1;Ivarstead-Geirmund's Hall
 1023;1000;sea;990;-1;-1;-1;-1;Ivarstead-Honeystrand
@@ -46,6 +50,30 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1236;1249;sea;990;-1;-1;-1;-1;Honningbrew-Whiteriver Watch
 1252;1251;sea;990;-1;-1;-1;-1;Valtheim-Oleriad
 1111;1181;sea;990;-1;-1;-1;-1;Giant's Run-Grinning Horker
+1404;1324;sea;990;-1;-1;-1;-1;Dragon Bridge-Korvela
+1324;1327;sea;990;-1;-1;-1;-1;Korvela-Valmund
+1325;1327;sea;990;-1;-1;-1;-1;Volger-Valmund
+1425;1427;sea;990;-1;-1;-1;-1;Bruca's Leap-Cliffside
+1423;1438;sea;990;-1;-1;-1;-1;Darkfall-Druadach
+1446;1428;sea;990;-1;-1;-1;-1;Crow-Eye-Liar's Retreat
+1320;1322;sea;990;-1;-1;-1;-1;Kjarta-Old Karth
+1315;1316;sea;990;-1;-1;-1;-1;Gefyr-Amber Guard
+1329;1357;sea;990;-1;-1;-1;-1;Snowhawk-Laesten
+1354;1352;sea;990;-1;-1;-1;-1;Morthal-Morvarth
+1337;1340;sea;990;-1;-1;-1;-1;Morvunrund-Ustengrav
+1337;1352;sea;990;-1;-1;-1;-1;Morvunrund-Morvarth
+1337;1336;sea;990;-1;-1;-1;-1;Morvunrund-Hjalvik
+1328;1334;sea;990;-1;-1;-1;-1;Black Morass-Folgunthur
+1458;1464;sea;990;-1;-1;-1;-1;Kolskeggr-Brasswater
+1461;1464;sea;990;-1;-1;-1;-1;Salvius-Brasswater
+1461;1462;sea;990;-1;-1;-1;-1;Salvius-Left-Handed
+1465;1500;sea;990;-1;-1;-1;-1;Bonechime-Reachwater
+1503;1466;sea;990;-1;-1;-1;-1;Eyrie-Duinmach
+1467;1468;sea;990;-1;-1;-1;-1;Hag Rock-Purewater Run
+1500;1474;sea;990;-1;-1;-1;-1;Reachwater-Karthspire
+1475;1474;sea;990;-1;-1;-1;-1;Rebel's Retreat-Karthspire
+1497;1479;sea;990;-1;-1;-1;-1;Ansilgard-Old Hroldan
+1491;1481;sea;990;-1;-1;-1;-1;Gloomreach-Ravenhall
 1230;1231;sea;48;-1;-1;-1;-1;Kalmar-Nordeney
 1224;1223;sea;48;-1;-1;-1;-1;Lindsfjord-Shorwind Isle
 1223;1164;sea;48;-1;-1;-1;-1;Shorwind Isle-Yingvild Isle
@@ -60,4 +88,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1135;1136;sea;48;-1;-1;-1;-1;Bleakcoast Isle-Journeyman's Hook
 1135;1131;sea;48;-1;-1;-1;-1;Bleakcoast Isle-Snow-Veil
 1392;1393;sea;48;-1;-1;-1;-1;Solitude-Blue Palace
+1418;1420;sea;48;-1;-1;-1;-1;Icereach-Unhrug
+1418;1419;sea;48;-1;-1;-1;-1;Icereach-Grenivik
+1389;1390;sea;48;-1;-1;-1;-1;Aldhelm-Svellfold
+1381;1383;sea;48;-1;-1;-1;-1;Coldstone-Broken Oar
+1380;1382;sea;48;-1;-1;-1;-1;Kyne's Perch-Valthammer
 -1;-1;;-1;-1;-1;-1;-1;

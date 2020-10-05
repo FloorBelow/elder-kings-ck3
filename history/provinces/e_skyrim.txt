@@ -2290,3 +2290,429 @@
 1420 = { #b_unhrug 
 	holding = none
 }
+
+###c_darkfall
+
+1421 = { #b_mor_khazgur
+	culture = mountain_orc
+	religion = code_of_mauloch
+
+	holding = tribal_holding
+}
+1422 =  { #b_half_finger
+	holding = none
+}
+1423 = { #b_darkfall 
+	holding = none
+}
+
+###c_bruca_leap
+
+1425 = { #b_bruca_leap
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1424 =  { #b_champion_ring
+	holding = none
+}
+
+###c_chillbain
+
+1426 = { #b_chillbain
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1427 =  { #b_cliffside
+	holding = none
+}
+1428 = { #b_liar_retreat 
+	holding = none
+}
+1429 = { #b_breakwatch 
+	holding = none
+}
+
+###c_karthwatch
+
+1430 = { #b_karthwatch
+	culture = westmarcher
+	religion = nord_cult
+
+	holding = castle_holding
+}
+1431 =  { #b_silversnow
+	holding = none
+}
+1432 = { #b_froststone 
+	holding = none
+}
+1433 = { #b_scarhammer 
+	holding = none
+}
+
+###c_bleakwind
+
+1436 = { #b_bleakwind
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1434 =  { #b_sundered
+	holding = none
+}
+1435 = { #b_rebel_cairn 
+	holding = none
+}
+
+###c_druadach
+
+1438 = { #b_druadach
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1437 =  { #b_deep_folk_crossing
+	holding = none
+}
+1439 = { #b_reachreach 
+	holding = none
+}
+
+###c_dragontooth
+
+1441 = { #b_harmugstahl
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1440 =  { #b_witchborne
+	holding = none
+}
+1442 = { #b_dragontooth 
+	holding = none
+}
+
+###c_blackmoon
+
+1443 = { #b_blackmoon
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1444 =  { #b_peryitein
+	holding = church_holding
+}
+
+###c_karthwasten
+
+1448 = { #b_karthkeep
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1447 =  { #b_karthwasten
+	holding = city_holding
+}
+1445 = { #b_sanuarach 
+	holding = none
+}
+1446 = { #b_crow_eye 
+	holding = none
+}
+
+###c_luspardain
+
+1451 = { #b_luspardain
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1449 =  { #b_bthardamz
+	holding = none
+}
+1450 = { #b_rearial 
+	holding = none
+}
+
+###c_blindcliff
+
+1453 = { #b_blindcliff
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1452 =  { #b_nocturn
+	holding = none
+}
+
+###c_ragnvald
+
+1454 = { #b_ragnvald
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1455 =  { #b_deadchime
+	holding = none
+}
+1456 = { #b_tor_ayarla 
+	holding = none
+}
+
+###c_kolskeggr
+
+1458 = { #b_kolskeggr
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1457 =  { #b_wildspear
+	holding = none
+}
+
+###c_markarth
+
+1459 = { #b_understone
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1460 =  { #b_markarth
+	holding = none
+}
+1461 = { #b_salvius 
+	holding = none
+}
+1462 = { #b_left_handed 
+	holding = none
+}
+1463 = { #b_cidhna 
+	holding = none
+}
+
+###c_brasswater
+
+1464 = { #b_brasswater
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1465 =  { #b_bonechime
+	holding = none
+}
+1466 = { #b_duimnach 
+	holding = none
+}
+
+###c_purewater
+
+1468 = { #b_purewater_run
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1467 =  { #b_hag_rock
+	holding = none
+}
+
+###c_hraggen
+
+1472 = { #b_hraggen
+	culture = reachmen
+	religion = hagraven_cult
+
+	holding = church_holding
+}
+1469 =  { #b_fourskull
+	holding = none
+}
+1470 = { #b_red_eagle 
+	holding = none
+}
+1471 = { #b_dunruadh 
+	holding = none
+}
+
+###c_karthspire
+
+1474 = { #b_karthspire
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1473 =  { #b_sky_haven
+	holding = none
+}
+
+###c_soljund
+
+1477 = { #b_soljund
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1475 =  { #b_rebel_retreat
+	holding = none
+}
+
+###c_hroldan
+
+1479 = { #b_hroldan
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1478 =  { #b_harrowed_haunt
+	holding = none
+}
+1476 = { #b_cinderheart 
+	holding = none
+}
+
+###c_ravenhall
+
+1481 = { #b_ravenhall
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1480 =  { #b_falkhall
+	holding = none
+}
+1482 = { #b_ustunhammer 
+	holding = none
+}
+
+###c_sungard
+
+1485 = { #b_sungard
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1483 =  { #b_helwatch
+	holding = none
+}
+1484 = { #b_hendraheim 
+	holding = none
+}
+1486 = { #b_bjorlam 
+	holding = none
+}
+
+###c_breakwind
+
+1487 = { #b_breakwind
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1488 =  { #b_lost_valley
+	holding = none
+}
+1489 = { #b_cradle_stone 
+	holding = none
+}
+
+###c_valthume
+
+1493 = { #b_valthume
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1490 =  { #b_shadefeather
+	holding = none
+}
+1491 = { #b_gloomreach 
+	holding = none
+}
+1492 = { #b_volgard 
+	holding = none
+}
+
+###c_skyhammer
+
+1496 = { #b_skyhammer
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1494 =  { #b_ansilgard
+	holding = none
+}
+1495 = { #b_sheargen 
+	holding = none
+}
+
+###c_rockwatch
+
+1499 = { #b_rockwatch
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1497 =  { #b_gearagh
+	holding = none
+}
+1498 = { #b_arkngthamz 
+	holding = none
+}
+
+###c_reachcliff
+
+1501 = { #b_reachcliff
+	culture = reachmen
+	religion = old_gods
+
+	holding = tribal_holding
+}
+1500 =  { #b_reachwater
+	holding = none
+}
+1502 = { #b_reachwind 
+	holding = none
+}
+1503 = { #b_eyrie 
+	holding = none
+}
+
+###c_dushnikh
+
+1504 = { #b_dushnikh
+	culture = mountain_orc
+	religion = code_of_mauloch
+
+	holding = tribal_holding
+}
+1505 =  { #b_vateshran_hollow
+	holding = none
+}
+1506 = { #b_nalzthdbar 
+	holding = none
+}
