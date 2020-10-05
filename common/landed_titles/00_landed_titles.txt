@@ -6913,6 +6913,12 @@ e_skyrim = {
 					color = { 0 140 185 }
 					color2 = { 0 0 0 }
 				}
+				b_grinning_horker = {
+					province = 1181
+					
+					color = { 145 155 195 }
+					color2 = { 0 0 0 }
+				}
 			}
 			c_gallows_rock = {
 				color = { 40 140 185 }
@@ -8056,6 +8062,72 @@ e_skyrim = {
 					province = 1383
 					
 					color = { 50 50 135 }
+					color2 = { 0 0 0 }
+				}
+			}
+		}
+		d_darkfall = {
+			color = { 140 170 200 }
+			color2 = { 0 0 0 }
+
+			capital = c_darkfall
+			
+			cultural_names = {
+				mountain_orc = cn_khazgur
+				iron_orc = cn_khazgur
+				wood_orc = cn_khazgur
+			}
+			
+			c_darkfall = {
+				color = { 140 170 200 }
+				color2 = { 0 0 0 }
+				
+				cultural_names = {
+					mountain_orc = cn_khazgur
+					iron_orc = cn_khazgur
+					wood_orc = cn_khazgur
+				}
+
+				b_mor_khazgur = {
+					province = 1421
+
+					color = { 140 170 200 }
+					color2 = { 0 0 0 }
+					
+					cultural_names = {
+						mountain_orc = cn_mor_khazgur
+						iron_orc = cn_mor_khazgur
+						wood_orc = cn_mor_khazgur
+					}
+					
+				}
+				b_ralf_finger = {
+					province = 1422
+
+					color = { 140 170 200 }
+					color2 = { 0 0 0 }
+				}
+				b_darkfall = {
+					province = 1423
+
+					color = { 140 170 200 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_bruca_leap = {
+				color = { 170 200 255 }
+				color2 = { 0 0 0 }
+
+				b_bruca_leap = {
+					province = 1425
+					
+					color = { 170 200 255 }
+					color2 = { 0 0 0 }
+				}
+				b_champion_ring = {
+					province = 1424
+					
+					color = { 170 200 255 }
 					color2 = { 0 0 0 }
 				}
 			}
@@ -9719,23 +9791,6 @@ e_skyrim = {
 					color2 = { 0 0 0 }
 				}
 			}
-			c_horkerbank = {
-				color = { 145 155 195 }
-				color2 = { 0 0 0 }
-
-				b_grinning_horker = {
-					province = 1181
-					
-					color = { 145 155 195 }
-					color2 = { 0 0 0 }
-				}
-				b_helsingborn = {
-					province = 1180
-					
-					color = { 145 155 195 }
-					color2 = { 0 0 0 }
-				}
-			}
 			c_yorgrim_gate = {
 				color = { 145 165 225 }
 				color2 = { 0 0 0 }
@@ -9750,6 +9805,12 @@ e_skyrim = {
 					province = 1179
 					
 					color = { 145 165 225 }
+					color2 = { 0 0 0 }
+				}
+				b_helsingborn = {
+					province = 1180
+					
+					color = { 145 155 195 }
 					color2 = { 0 0 0 }
 				}
 			}
@@ -11338,72 +11399,6 @@ e_skyrim = {
 					province = 1452
 					
 					color = { 120 200 220 }
-					color2 = { 0 0 0 }
-				}
-			}
-		}
-		d_darkfall = {
-			color = { 140 170 200 }
-			color2 = { 0 0 0 }
-
-			capital = c_darkfall
-			
-			cultural_names = {
-				mountain_orc = cn_khazgur
-				iron_orc = cn_khazgur
-				wood_orc = cn_khazgur
-			}
-			
-			c_darkfall = {
-				color = { 140 170 200 }
-				color2 = { 0 0 0 }
-				
-				cultural_names = {
-					mountain_orc = cn_khazgur
-					iron_orc = cn_khazgur
-					wood_orc = cn_khazgur
-				}
-
-				b_mor_khazgur = {
-					province = 1421
-
-					color = { 140 170 200 }
-					color2 = { 0 0 0 }
-					
-					cultural_names = {
-						mountain_orc = cn_mor_khazgur
-						iron_orc = cn_mor_khazgur
-						wood_orc = cn_mor_khazgur
-					}
-					
-				}
-				b_ralf_finger = {
-					province = 1422
-
-					color = { 140 170 200 }
-					color2 = { 0 0 0 }
-				}
-				b_darkfall = {
-					province = 1423
-
-					color = { 140 170 200 }
-					color2 = { 0 0 0 }
-				}
-			}
-			c_bruca_leap = {
-				color = { 170 200 255 }
-				color2 = { 0 0 0 }
-
-				b_bruca_leap = {
-					province = 1425
-					
-					color = { 170 200 255 }
-					color2 = { 0 0 0 }
-				}
-				b_champion_ring = {
-					province = 1424
-					
-					color = { 170 200 255 }
 					color2 = { 0 0 0 }
 				}
 			}

@@ -78,7 +78,7 @@ impassable_mountains = LIST { 125 }
 impassable_mountains = RANGE { 885 918 }
 impassable_mountains = RANGE { 920 958 }
 # Skyrim Wastelands
-impassable_mountains = RANGE { 1511 1549 }
+impassable_mountains = RANGE { 1511 1591 }
 
 ############
 # WASTELAND

@@ -4,7 +4,7 @@
 
 959 = { #b_sunderstone
 	culture = reachmen
-	religion = old_gods
+	religion = minotaur_cult
 	
 	holding = tribal_holding
 }
@@ -19,7 +19,7 @@
 
 962 = { #b_bannermist
 	culture = reachmen
-	religion = old_gods
+	religion = minotaur_cult
 	
 	holding = tribal_holding
 }
@@ -51,8 +51,8 @@
 ###c_shriekwind
 
 970 = { #b_shriekwind
-	culture = cyro_nord
-	religion = nord_cult
+	culture = mountain_orc
+	religion = code_of_mauloch
 	
 	holding = castle_holding
 }
@@ -93,8 +93,8 @@
 ###c_ancestor_glade
 
 975 = { #b_ancestor_glade
-	culture = cyro_nord
-	religion = nord_cult
+	culture = mountain_orc
+	religion = code_of_mauloch
 	
 	holding = church_holding
 }
@@ -182,8 +182,8 @@
 ###c_half_moon
 
 963 = { #b_half_moon
-	culture = westmarcher
-	religion = nord_cult
+	culture = mountain_orc
+	religion = code_of_mauloch
 	
 	holding = castle_holding
 }
@@ -2309,8 +2309,8 @@
 ###c_bruca_leap
 
 1425 = { #b_bruca_leap
-	culture = westmarcher
-	religion = nord_cult
+	culture = mountain_orc
+	religion = code_of_mauloch
 
 	holding = castle_holding
 }
@@ -2358,7 +2358,7 @@
 
 1436 = { #b_bleakwind
 	culture = reachmen
-	religion = old_gods
+	religion = hagraven_cult
 
 	holding = tribal_holding
 }
@@ -2433,7 +2433,7 @@
 
 1451 = { #b_luspardain
 	culture = reachmen
-	religion = old_gods
+	religion = druadach_cult
 
 	holding = tribal_holding
 }
@@ -2460,7 +2460,7 @@
 
 1454 = { #b_ragnvald
 	culture = reachmen
-	religion = old_gods
+	religion = druadach_cult
 
 	holding = tribal_holding
 }
@@ -2508,7 +2508,7 @@
 
 1464 = { #b_brasswater
 	culture = reachmen
-	religion = old_gods
+	religion = dwemer_idolatry
 
 	holding = tribal_holding
 }
@@ -2565,7 +2565,7 @@
 
 1477 = { #b_soljund
 	culture = reachmen
-	religion = old_gods
+	religion = hagraven_cult
 
 	holding = tribal_holding
 }
@@ -2607,7 +2607,7 @@
 
 1485 = { #b_sungard
 	culture = reachmen
-	religion = old_gods
+	religion = minotaur_cult
 
 	holding = tribal_holding
 }
@@ -2688,7 +2688,7 @@
 
 1501 = { #b_reachcliff
 	culture = reachmen
-	religion = old_gods
+	religion = dwemer_idolatry
 
 	holding = tribal_holding
 }

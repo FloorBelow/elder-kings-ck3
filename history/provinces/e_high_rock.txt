@@ -962,6 +962,9 @@
 ####c_reachgate
 
 1507 = { #b_reachgate
+	culture = reachmen
+	religion = druadach_cult
+
 	holding = castle_holding
 }
 1510 = { #b_nodaein#
