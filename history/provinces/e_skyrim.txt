@@ -2716,3 +2716,15 @@
 1506 = { #b_nalzthdbar 
 	holding = none
 }
+
+### c_leylan
+
+1508 = { #b_leylan
+	culture = reachmen
+	religion = druadach_cult
+
+	holding = castle_holding
+}
+1509 = { #b_druadein
+	holding = none
+}

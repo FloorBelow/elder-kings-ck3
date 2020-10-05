@@ -959,6 +959,15 @@
 	holding = none
 }
 
+####c_reachgate
+
+1507 = { #b_reachgate
+	holding = castle_holding
+}
+1510 = { #b_nodaein#
+holding = none
+}
+
 ####c_kerbol
 
 206 = { #b_kerbol
