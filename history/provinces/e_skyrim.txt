@@ -2309,10 +2309,10 @@
 ###c_bruca_leap
 
 1425 = { #b_bruca_leap
-	culture = reachmen
-	religion = old_gods
+	culture = westmarcher
+	religion = nord_cult
 
-	holding = tribal_holding
+	holding = castle_holding
 }
 1424 =  { #b_champion_ring
 	holding = none

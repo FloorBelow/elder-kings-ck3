@@ -279,8 +279,8 @@ empire_feudal_yokudan:0 "High Sultanate"
 #Reachmen
 king_feudal_tribal_male_reachmen:0 "Ard"
 king_feudal_tribal_female_reachmen:0 "Ard"
-king_feudal_tribal_independent_male_reachmen:0 "Petty Ard"
-king_feudal_tribal_independent_female_reachmen:0 "Petty Ard"
+duke_feudal_tribal_independent_male_reachmen:0 "Petty Ard"
+duke_feudal_tribal_independent_female_reachmen:0 "Petty Ard"
 
 ####################################################
 
