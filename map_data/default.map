@@ -37,6 +37,7 @@ sea_zones = RANGE { 324 348 }
 sea_zones = RANGE { 352 365 }
 sea_zones = LIST { 370 }
 sea_zones = LIST { 795 }
+sea_zones = RANGE { 1593 1659 }
 
 #Skyrim Coast
 sea_zones = RANGE { 366 367 }

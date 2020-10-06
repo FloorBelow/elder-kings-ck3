@@ -2686,13 +2686,13 @@
 
 ###c_reachcliff
 
-1501 = { #b_reachcliff
+1501 =  { #b_reachcliff
 	culture = reachmen
 	religion = dwemer_idolatry
 
 	holding = tribal_holding
 }
-1500 =  { #b_reachwater
+1500 = { #b_reachwater
 	holding = none
 }
 1502 = { #b_reachwind 
@@ -2726,5 +2726,20 @@
 	holding = castle_holding
 }
 1509 = { #b_druadein
+	holding = none
+}
+
+### c_bleakrock
+
+1662 = { #b_bleakrock
+	culture = eastmarcher
+	religion = nord_cult
+
+	holding = castle_holding
+}
+1660 = { #b_hozzin_folly
+	holding = none
+}
+1661 = { #b_skyshroud
 	holding = none
 }

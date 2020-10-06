@@ -4269,22 +4269,33 @@ e_high_rock = {
 					color = { 21 183 200 }
 					color2 = { 0 0 0 }
 				}
+				b_darron = {
+					province = 1592
+					
+					color = { 21 183 245 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_valewatch = {
+				color = { 30 190 210 }
+				color2 = { 0 0 0 }
+				
 				b_guardians_vale = {
 					province = 29
 					
-					color = { 21 183 215 }
+					color = { 30 190 210 }
 					color2 = { 0 0 0 }
 				}
 				b_valewatch = {
 					province = 30
 					
-					color = { 21 183 230 }
+					color = { 30 190 210 }
 					color2 = { 0 0 0 }
 				}
 				b_chill_keep = {
 					province = 31
 					
-					color = { 21 183 245 }
+					color = { 30 190 210 }
 					color2 = { 0 0 0 }
 				}
 			}
@@ -10674,6 +10685,29 @@ e_skyrim = {
 					province = 1133
 					
 					color = { 100 120 250 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_bleakrock = {
+				color = { 100 120 170 }
+				color2 = { 0 0 0 }
+
+				b_bleakrock = {
+					province = 1662
+					
+					color = { 100 120 170 }
+					color2 = { 0 0 0 }
+				}
+				b_hozzin_folly = {
+					province = 1660
+					
+					color = { 100 120 170 }
+					color2 = { 0 0 0 }
+				}
+				b_skyshroud = {
+					province = 1661
+					
+					color = { 100 120 170 }
 					color2 = { 0 0 0 }
 				}
 			}

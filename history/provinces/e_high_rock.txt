@@ -1,4 +1,4 @@
-#E_HIGH_ROCK 
+﻿#E_HIGH_ROCK 
 
 ####c_balfiera
 
@@ -113,10 +113,19 @@
 	
 	holding = castle_holding
 }
-29 = { #b_guardians_vale
+1592 = { #b_darron
 	holding = none
 }
+
+####c_valewatch
+
 30 = { #b_valewatch
+	culture = glenumbran
+	religion = breton_cult
+	
+	holding = castle_holding
+}
+29 = { #b_guardians_vale
 	holding = none
 }
 31 = { #b_chill_keep
@@ -1386,10 +1395,10 @@ holding = none
 	holding = tribal_holding
 }
 289 = { #b_sorrow	
-	holding = city_holding
+	holding = church_holding
 }
 290 = { #b_navare
-	holding = church_holding
+	holding = none
 }
 1417 = { #b_blackbone
 	holding = none
@@ -1404,10 +1413,10 @@ holding = none
 	holding = tribal_holding
 }
 292 = { #b_vendia	
-	holding = city_holding
+	holding = none
 }
 293 = { #b_uttara
-	holding = church_holding
+	holding = none
 }
 295 = { #b_pathenia
 	holding = none
