@@ -3,7 +3,7 @@
 ###c_sunderstone
 
 959 = { #b_sunderstone
-	culture = reachmen
+	culture = reachfolk
 	religion = minotaur_cult
 	
 	holding = tribal_holding
@@ -18,7 +18,7 @@
 ###c_bannermist
 
 962 = { #b_bannermist
-	culture = reachmen
+	culture = reachfolk
 	religion = minotaur_cult
 	
 	holding = tribal_holding
@@ -149,7 +149,7 @@
 ###c_orphan_rock
 
 984 = { #b_orphan_rock
-	culture = reachmen
+	culture = reachfolk
 	religion = hagraven_cult
 	
 	holding = tribal_holding
@@ -212,7 +212,7 @@
 ###c_steelhead_cleft
 
 995 = { #b_lion_pass
-	culture = reachmen
+	culture = reachfolk
 	religion = hagraven_cult
 	
 	holding = tribal_holding
@@ -2033,7 +2033,7 @@
 ###c_rimerock
 
 1367 = { #b_rimerock
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 	
 	holding = tribal_holding
@@ -2237,7 +2237,7 @@
 ###c_deepwood
 
 1406 = { #b_deepwood
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 	
 	holding = tribal_holding
@@ -2252,7 +2252,7 @@
 ###c_pinefrost
 
 1409 = { #b_pinefrost
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 	
 	holding = tribal_holding
@@ -2279,7 +2279,7 @@
 ###c_icereach
 
 1418 = { #b_icereach
-	culture = reachmen
+	culture = reachfolk
 	religion = hagraven_cult
 
 	holding = castle_holding
@@ -2357,7 +2357,7 @@
 ###c_bleakwind
 
 1436 = { #b_bleakwind
-	culture = reachmen
+	culture = reachfolk
 	religion = hagraven_cult
 
 	holding = tribal_holding
@@ -2372,7 +2372,7 @@
 ###c_druadach
 
 1438 = { #b_druadach
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2387,7 +2387,7 @@
 ###c_dragontooth
 
 1441 = { #b_harmugstahl
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2402,7 +2402,7 @@
 ###c_blackmoon
 
 1443 = { #b_blackmoon
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2414,7 +2414,7 @@
 ###c_karthwasten
 
 1448 = { #b_karthkeep
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2432,7 +2432,7 @@
 ###c_luspardain
 
 1451 = { #b_luspardain
-	culture = reachmen
+	culture = reachfolk
 	religion = druadach_cult
 
 	holding = tribal_holding
@@ -2447,7 +2447,7 @@
 ###c_blindcliff
 
 1453 = { #b_blindcliff
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2459,7 +2459,7 @@
 ###c_ragnvald
 
 1454 = { #b_ragnvald
-	culture = reachmen
+	culture = reachfolk
 	religion = druadach_cult
 
 	holding = tribal_holding
@@ -2474,7 +2474,7 @@
 ###c_kolskeggr
 
 1458 = { #b_kolskeggr
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2486,7 +2486,7 @@
 ###c_markarth
 
 1459 = { #b_understone
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = castle_holding
@@ -2507,7 +2507,7 @@
 ###c_brasswater
 
 1464 = { #b_brasswater
-	culture = reachmen
+	culture = reachfolk
 	religion = dwemer_idolatry
 
 	holding = tribal_holding
@@ -2522,7 +2522,7 @@
 ###c_purewater
 
 1468 = { #b_purewater_run
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2534,7 +2534,7 @@
 ###c_hraggen
 
 1472 = { #b_hraggen
-	culture = reachmen
+	culture = reachfolk
 	religion = hagraven_cult
 
 	holding = church_holding
@@ -2552,7 +2552,7 @@
 ###c_karthspire
 
 1474 = { #b_karthspire
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2564,7 +2564,7 @@
 ###c_soljund
 
 1477 = { #b_soljund
-	culture = reachmen
+	culture = reachfolk
 	religion = hagraven_cult
 
 	holding = tribal_holding
@@ -2576,7 +2576,7 @@
 ###c_hroldan
 
 1479 = { #b_hroldan
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2591,7 +2591,7 @@
 ###c_ravenhall
 
 1481 = { #b_ravenhall
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2606,7 +2606,7 @@
 ###c_sungard
 
 1485 = { #b_sungard
-	culture = reachmen
+	culture = reachfolk
 	religion = minotaur_cult
 
 	holding = tribal_holding
@@ -2624,7 +2624,7 @@
 ###c_breakwind
 
 1487 = { #b_breakwind
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2639,7 +2639,7 @@
 ###c_valthume
 
 1493 = { #b_valthume
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2657,7 +2657,7 @@
 ###c_skyhammer
 
 1496 = { #b_skyhammer
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2672,7 +2672,7 @@
 ###c_rockwatch
 
 1499 = { #b_rockwatch
-	culture = reachmen
+	culture = reachfolk
 	religion = old_gods
 
 	holding = tribal_holding
@@ -2687,7 +2687,7 @@
 ###c_reachcliff
 
 1501 =  { #b_reachcliff
-	culture = reachmen
+	culture = reachfolk
 	religion = dwemer_idolatry
 
 	holding = tribal_holding
@@ -2720,7 +2720,7 @@
 ### c_leylan
 
 1508 = { #b_leylan
-	culture = reachmen
+	culture = reachfolk
 	religion = druadach_cult
 
 	holding = castle_holding

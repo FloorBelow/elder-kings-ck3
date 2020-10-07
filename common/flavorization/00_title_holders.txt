@@ -382,7 +382,7 @@ duchy_tribal_tribe = { #Tribe
 	priority = 30
 	only_independent = yes
 	governments = { tribal_government }
-	cultures = { mountain_orc iron_orc wood_orc horsemen reachmen }
+	cultures = { mountain_orc iron_orc wood_orc horsemen reachfolk }
 }
 
 #Reachmen Culture
@@ -395,7 +395,7 @@ duke_feudal_tribal_independent_male_reachmen = { #Ard
 	priority = 28
 	only_independent = yes
 	governments = { feudal_government tribal_government }
-	cultures = { reachmen }
+	cultures = { reachfolk }
 	top_liege = no
 }
 duke_feudal_tribal_independent_female_reachmen = { #Ard
@@ -406,7 +406,7 @@ duke_feudal_tribal_independent_female_reachmen = { #Ard
 	priority = 28
 	only_independent = yes
 	governments = { feudal_government tribal_government }
-	cultures = { reachmen }
+	cultures = { reachfolk }
 	top_liege = no
 }
 
@@ -417,7 +417,7 @@ king_feudal_tribal_male_reachmen = { #Ard
 	tier = kingdom
 	priority = 48
 	governments = { feudal_government tribal_government }
-	cultures = { reachmen }
+	cultures = { reachfolk }
 	top_liege = no
 }
 king_feudal_tribal_female_reachmen = { #Ard
@@ -427,7 +427,7 @@ king_feudal_tribal_female_reachmen = { #Ard
 	tier = kingdom
 	priority = 48
 	governments = { feudal_government tribal_government }
-	cultures = { reachmen }
+	cultures = { reachfolk }
 	top_liege = no
 }
 

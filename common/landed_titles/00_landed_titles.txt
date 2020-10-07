@@ -6067,7 +6067,7 @@ e_high_rock = {
 			mountain_orc = cn_fharun
 			iron_orc = cn_fharun
 			wood_orc = cn_fharun
-			reachmen = cn_fharun
+			reachfolk = cn_fharun
 		}
 	
 		d_fharun = {
@@ -6080,7 +6080,7 @@ e_high_rock = {
 				mountain_orc = cn_fharun
 				iron_orc = cn_fharun
 				wood_orc = cn_fharun
-				reachmen = cn_fharun
+				reachfolk = cn_fharun
 			}	
 		
 			c_fharun = {
@@ -6091,7 +6091,7 @@ e_high_rock = {
 					mountain_orc = cn_fharun
 					iron_orc = cn_fharun
 					wood_orc = cn_fharun
-					reachmen = cn_fharun
+					reachfolk = cn_fharun
 				}
 				
 				b_fharun_stronghold = {
@@ -6101,7 +6101,7 @@ e_high_rock = {
 						mountain_orc = cn_fharun_stronghold
 						iron_orc = cn_fharun_stronghold
 						wood_orc = cn_fharun_stronghold
-						reachmen = cn_fharun_stronghold
+						reachfolk = cn_fharun_stronghold
 					}
 					
 					color = { 189 186 189 }
@@ -6114,7 +6114,7 @@ e_high_rock = {
 						mountain_orc = cn_fharun
 						iron_orc = cn_fharun
 						wood_orc = cn_fharun
-						reachmen = cn_fharun
+						reachfolk = cn_fharun
 					}
 					
 					color = { 189 186 189 }
@@ -7852,7 +7852,7 @@ e_skyrim = {
 			westmarcher = cn_haafingar
 			eastmarcher = cn_haafingar
 			cyro_nord = cn_haafingar
-			reachmen = cn_kilkreath
+			reachfolk = cn_kilkreath
 		}
 		
 		d_solitude = {
@@ -7862,7 +7862,7 @@ e_skyrim = {
 			capital = c_solitude
 			
 			cultural_names = {
-				reachmen = cn_kilkreath
+				reachfolk = cn_kilkreath
 			}
 			
 			c_solitude = {
@@ -8153,7 +8153,7 @@ e_skyrim = {
 				westmarcher = cn_hraggstad
 				eastmarcher = cn_hraggstad
 				cyro_nord = cn_hraggstad
-				reachmen = cn_deepwoods
+				reachfolk = cn_deepwoods
 			}
 			
 			c_dragon_bridge = {
@@ -8993,7 +8993,7 @@ e_skyrim = {
 				mountain_orc = cn_falcrenth
 				iron_orc = cn_falcrenth
 				wood_orc = cn_falcrenth
-				reachmen = cn_falkreath
+				reachfolk = cn_falkreath
 			}
 			
 			c_falkreath = {
@@ -9004,7 +9004,7 @@ e_skyrim = {
 					mountain_orc = cn_falcrenth
 					iron_orc = cn_falcrenth
 					wood_orc = cn_falcrenth
-					reachmen = cn_falkreath
+					reachfolk = cn_falkreath
 				}
 
 				b_falkreath = {
@@ -9014,7 +9014,7 @@ e_skyrim = {
 						mountain_orc = cn_falcrenth
 						iron_orc = cn_falcrenth
 						wood_orc = cn_falcrenth
-						reachmen = cn_falkreath
+						reachfolk = cn_falkreath
 					}
 
 					color = { 100 100 240 }
@@ -11199,7 +11199,7 @@ e_skyrim = {
 					color2 = { 0 0 0 }
 					
 					cultural_names = {
-						reachmen = cn_hroldan_ring
+						reachfolk = cn_hroldan_ring
 					}
 				}
 				b_harrowed_haunt = {
