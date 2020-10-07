@@ -2746,195 +2746,195 @@
 
 # ### c_northshore
 
-# 1663 = { #b_northshore_landing
-	# culture = skaal
-	# religion = anuic_skaal
+ 1663 = { #b_northshore_landing
+	 culture = skaal
+	 religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1664 = { #b_karstaag
-	# holding = none
-# }
-# 1665 = { #b_hrothmund_bane
-	# holding = none
-# }
+	 holding = tribal_holding
+ }
+ 1664 = { #b_karstaag
+	 holding = none
+ }
+ 1665 = { #b_hrothmund_bane
+	 holding = none
+ }
 
-# ### c_felsaad
+### c_felsaad
 
-# 1666 = { #b_skaal
-	# culture = skaal
-	# religion = anuic_skaal
+1666 = { #b_skaal
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1667 = { #b_frossel
-	# holding = none
-# }
-# 1668 = { #b_rimhull
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1667 = { #b_frossel
+	holding = none
+}
+1668 = { #b_rimhull
+	holding = none
+}
 
-# ### c_thormoor
+### c_thormoor
 
-# 1670 = { #b_thormoor_watch
-	# culture = skaal
-	# religion = anuic_skaal
+1670 = { #b_thormoor_watch
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1669 = { #b_varstaad
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1669 = { #b_varstaad
+	 holding = none
+}
 
-# ### c_harstrad
+### c_harstrad
 
-# 1671 = { #b_harstrad
-	# culture = skaal
-	# religion = anuic_skaal
+1671 = { #b_harstrad
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1672 = { #b_thrond
-	# holding = none
-# }
-# 1673 = { #b_gronn
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1672 = { #b_thrond
+	holding = none
+}
+1673 = { #b_gronn
+	holding = none
+}
 
-# ### c_moesring
+### c_moesring
 
-# 1675 = { #b_moesring
-	# culture = skaal
-	# religion = anuic_skaal
+1675 = { #b_moesring
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1674 = { #b_frostmoon
-	# holding = none
-# }
-# 1676 = { #b_snowclad
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1674 = { #b_hvitkald
+	holding = none
+}
+1676 = { #b_snowclad
+	holding = none
+}
 
-# ### c_snowfallow
+### c_snowfallow
 
-# 1678 = { #b_snowfallow
-	# culture = skaal
-	# religion = anuic_skaal
+1678 = { #b_snowfallow
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1677 = { #b_vahlok
-	# holding = none
-# }
-# 1679 = { #b_nchardak
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1677 = { #b_vahlok
+	holding = none
+}
+1679 = { #b_nchardak
+	holding = none
+}
 
-# ### c_bloodskal
+### c_bloodskal
 
-# 1680 = { #b_bloodskal
-	# culture = skaal
-	# religion = anuic_skaal
+1680 = { #b_bloodskal
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1681 = { #b_damphall
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1681 = { #b_damphall
+	holding = none
+}
 
-# ### c_solvjord
+### c_solvjord
 
-# 1683 = { #b_solvjord
-	# culture = skaal
-	# religion = anuic_skaal
+1683 = { #b_solvjord
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1682 = { #b_brodir
-	# holding = none
-# }
-# 1684 = { #b_kagrumez
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1682 = { #b_brodir
+	 holding = none
+}
+1684 = { #b_kagrumez
+	holding = none
+}
 
-# ### c_raven_rock
+### c_raven_rock
 
-# 1687 = { #b_raven_rock
-	# culture = skaal
-	# religion = anuic_skaal
+1687 = { #b_raven_rock
+	 culture = skaal
+	 religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1685 = { #b_severin
-	# holding = none
-# }
-# 1686 = { #b_ravenmine
-	# holding = none
-# }
-# 1688 = { #b_coldcinder
-	# holding = none
-# }
+	 holding = tribal_holding
+}
+ 1685 = { #b_severin
+	 holding = none
+}
+ 1686 = { #b_ravenmine
+	 holding = none
+}
+1688 = { #b_coldcinder
+	holding = none
+}
 
-# ### c_highpoint
+### c_highpoint
 
-# 1689 = { #b_highpoint
-	# culture = skaal
-	# religion = anuic_skaal
+1689 = { #b_highpoint
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1690 = { #b_penumbra
-	# holding = none
-# }
-# 1691 = { #b_gandrung
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1690 = { #b_penumbra
+	holding = none
+}
+1691 = { #b_gandrung
+	holding = none
+}
 
-# ### c_himmelhost
+### c_himmelhost
 
-# 1694 = { #b_himmelhost
-	# culture = skaal
-	# religion = anuic_skaal
+1694 = { #b_himmelhost
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1692 = { #b_sathil
-	# holding = none
-# }
-# 1693 = { #b_toralf
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1692 = { #b_sathil
+	holding = none
+}
+1693 = { #b_toralf
+	holding = none
+}
 
-# ### c_frostmoth
+### c_frostmoth
 
-# 1697 = { #b_frostmoth
-	# culture = skaal
-	# religion = anuic_skaal
+1697 = { #b_frostmoth
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1695 = { #b_kolbjorn
-	# holding = none
-# }
-# 1696 = { #b_stormpfund
-	# holding = none
-# }
-# 1698 = { #b_attius
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1695 = { #b_kolbjorn
+	holding = none
+}
+1696 = { #b_stormpfund
+	holding = none
+}
+1698 = { #b_attius
+	holding = none
+}
 
-# ### c_fjalding
+### c_fjalding
 
-# 1701 = { #b_fjalding
-	# culture = skaal
-	# religion = anuic_skaal
+1701 = { #b_fjalding
+	culture = skaal
+	religion = anuic_skaal
 
-	# holding = tribal_holding
-# }
-# 1699 = { #b_sjobal
-	# holding = none
-# }
-# 1700 = { #b_gyldenhul
-	# holding = none
-# }
+	holding = tribal_holding
+}
+1699 = { #b_sjobal
+	holding = none
+}
+1700 = { #b_gyldenhul
+	holding = none
+}

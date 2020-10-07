@@ -11527,379 +11527,379 @@ e_skyrim = {
 			}
 		}
 	}
-	# k_solstheim = {
-		# color = { 100 100 240 }
-		# color2 = { 0 0 0 }
+	k_solstheim = {
+		color = { 100 100 240 }
+		color2 = { 0 0 0 }
 
-		# capital = c_raven_rock
+		capital = c_raven_rock
 
-		# d_raven_rock = {
-			# color = { 100 100 240 }
-			# color2 = { 0 0 0 }
+		d_raven_rock = {
+			color = { 100 100 240 }
+			color2 = { 0 0 0 }
 
-			# capital = c_raven_rock
+			capital = c_raven_rock
 			
-			# cultural_names = {
-				# skaal = cn_hirstaang
-				# atmoran = cn_hirstaang
-			# }
+			cultural_names = {
+				skaal = cn_hirstaang
+				atmoran = cn_hirstaang
+			}
 			
-			# c_raven_rock = {
-				# color = { 20 235 255 }
-				# color2 = { 0 0 0 }
+			c_raven_rock = {
+				color = { 20 235 255 }
+				color2 = { 0 0 0 }
 				
-				# cultural_names = {
-					# skaal = cn_hirstaang
-					# atmoran = cn_hirstaang
-				# }
+				cultural_names = {
+					skaal = cn_hirstaang
+					atmoran = cn_hirstaang
+				}
 
-				# b_raven_rock = {
-					# province = 1687
+				b_raven_rock = {
+					province = 1687
 
-					# color = { 20 235 255 }
-					# color2 = { 0 0 0 }
+					color = { 20 235 255 }
+					color2 = { 0 0 0 }
 					
-					# cultural_names = {
-						# skaal = cn_hirstaang
-						# atmoran = cn_hirstaang
-					# }
-				# }
-				# b_severin = {
-					# province = 1685
+					cultural_names = {
+						skaal = cn_hirstaang
+						atmoran = cn_hirstaang
+					}
+				}
+				b_severin = {
+					province = 1685
 
-					# color = { 20 235 255 }
-					# color2 = { 0 0 0 }
-				# } 
-				# b_ravenmine = {
-					# province = 1686
+					color = { 20 235 255 }
+					color2 = { 0 0 0 }
+				} 
+				b_ravenmine = {
+					province = 1686
 
-					# color = { 20 235 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_coldcinder = {
-					# province = 1688
+					color = { 20 235 255 }
+					color2 = { 0 0 0 }
+				}
+				b_coldcinder = {
+					province = 1688
 
-					# color = { 20 235 255 }
-					# color2 = { 0 0 0 }
-				# } 
-			# }
-			# c_bloodskal = {
-				# color = { 50 235 255 }
-				# color2 = { 0 0 0 }
+					color = { 20 235 255 }
+					color2 = { 0 0 0 }
+				} 
+			}
+			c_bloodskal = {
+				color = { 50 235 255 }
+				color2 = { 0 0 0 }
 				
-				# b_bloodskal = {
-					# province = 1680
+				b_bloodskal = {
+					province = 1680
 
-					# color = { 50 235 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_damphall = {
-					# province = 1681
+					color = { 50 235 255 }
+					color2 = { 0 0 0 }
+				}
+				b_damphall = {
+					province = 1681
 
-					# color = { 50 235 255 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-			# c_solvjord = {
-				# color = { 40 240 250 }
-				# color2 = { 0 0 0 }
+					color = { 50 235 255 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_solvjord = {
+				color = { 40 240 250 }
+				color2 = { 0 0 0 }
 
-				# b_solvjord = {
-					# province = 1683
+				b_solvjord = {
+					province = 1683
 					
-					# color = { 40 240 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_brodir = {
-					# province = 1682
+					color = { 40 240 250 }
+					color2 = { 0 0 0 }
+				}
+				b_brodir = {
+					province = 1682
 					
-					# color = { 40 240 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_kagrumez = {
-					# province = 1684
+					color = { 40 240 250 }
+					color2 = { 0 0 0 }
+				}
+				b_kagrumez = {
+					province = 1684
 					
-					# color = { 40 240 250 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-			# c_highpoint = {
-				# color = { 45 250 255 }
-				# color2 = { 0 0 0 }
+					color = { 40 240 250 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_highpoint = {
+				color = { 45 250 255 }
+				color2 = { 0 0 0 }
 				
-				# cultural_names = {
-					# skaal = cn_gandrung
-					# atmoran = cn_gandrung
-				# }
+				cultural_names = {
+					skaal = cn_gandrung
+					atmoran = cn_gandrung
+				}
 
-				# b_highpoint = {
-					# province = 1689
+				b_highpoint = {
+					province = 1689
 					
-					# color = { 45 250 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_penumbra = {
-					# province = 1690
+					color = { 45 250 255 }
+					color2 = { 0 0 0 }
+				}
+				b_penumbra = {
+					province = 1690
 				
-					# color = { 45 250 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_gandrung = {
-					# province = 1691
+					color = { 45 250 255 }
+					color2 = { 0 0 0 }
+				}
+				b_gandrung = {
+					province = 1691
 					
-					# color = { 45 250 255 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-			# c_frostmoth = {
-				# color = { 45 250 255 }
-				# color2 = { 0 0 0 }
+					color = { 45 250 255 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_frostmoth = {
+				color = { 45 250 255 }
+				color2 = { 0 0 0 }
 
-				# cultural_names = {
-					# skaal = cn_kolbjorn
-					# atmoran = cn_kolbjorn
-				# }
+				cultural_names = {
+					skaal = cn_kolbjorn
+					atmoran = cn_kolbjorn
+				}
 
-				# b_frostmoth = {
-					# province = 1697
+				b_frostmoth = {
+					province = 1697
 					
-					# color = { 30 255 240 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_kolbjorn = {
-					# province = 1695
+					color = { 30 255 240 }
+					color2 = { 0 0 0 }
+				}
+				b_kolbjorn = {
+					province = 1695
 				
-					# color = { 30 255 240 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_stormpfund = {
-					# province = 1696
+					color = { 30 255 240 }
+					color2 = { 0 0 0 }
+				}
+				b_stormpfund = {
+					province = 1696
 					
-					# color = { 30 255 240 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_attius = {
-					# province = 1698
+					color = { 30 255 240 }
+					color2 = { 0 0 0 }
+				}
+				b_attius = {
+					province = 1698
 					
-					# color = { 30 255 240 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-		# }
-		# d_northshore = {
-			# color = { 15 225 255 }
-			# color2 = { 0 0 0 }
+					color = { 30 255 240 }
+					color2 = { 0 0 0 }
+				}
+			}
+		}
+		d_northshore = {
+			color = { 15 225 255 }
+			color2 = { 0 0 0 }
 
-			# capital = c_northshore
+			capital = c_northshore
 			
-			# cultural_names = {
-				# skaal = cn_mortrag
-				# atmoran = cn_mortrag
-			# }
+			cultural_names = {
+				skaal = cn_mortrag
+				atmoran = cn_mortrag
+			}
 			
-			# c_northshore = {
-				# color = { 15 225 255 }
-				# color2 = { 0 0 0 }
+			c_northshore = {
+				color = { 15 225 255 }
+				color2 = { 0 0 0 }
 				
-				# cultural_names = {
-					# skaal = cn_mortrag
-					# atmoran = cn_mortrag
-				# }
+				cultural_names = {
+					skaal = cn_mortrag
+					atmoran = cn_mortrag
+				}
 
-				# b_northshore_landing = {
-					# province = 1663
+				b_northshore_landing = {
+					province = 1663
 
-					# color = { 15 225 255 }
-					# color2 = { 0 0 0 }
+					color = { 15 225 255 }
+					color2 = { 0 0 0 }
 					
-					# cultural_names = {
-						# skaal = cn_mortrag
-						# atmoran = cn_mortrag
-					# }
-				# }
-				# b_karstaag = {
-					# province = 1664
+					cultural_names = {
+						skaal = cn_mortrag
+						atmoran = cn_mortrag
+					}
+				}
+				b_karstaag = {
+					province = 1664
 
-					# color = { 15 225 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_hrothmund_bane = {
-					# province = 1665
+					color = { 15 225 255 }
+					color2 = { 0 0 0 }
+				}
+				b_hrothmund_bane = {
+					province = 1665
 
-					# color = { 15 225 255 }
-					# color2 = { 0 0 0 }
-				# } 
-			# }
-			# c_thormoor = {
-				# color = { 5 230 255 }
-				# color2 = { 0 0 0 }
-
-				# cultural_names = {
-					# skaal = cn_varstaad
-					# atmoran = cn_varstaad
-				# }
-
-				# b_thormoor_watch = {
-					# province = 1670
-					
-					# color = { 5 230 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_varstaad = {
-					# province = 1669
-					
-					# color = { 5 230 255 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-			# c_harstrad = {
-				# color = { 0 235 250 }
-
-				# b_harstrad = {
-					# province = 1671
-					
-					# color = { 0 235 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_thrond = {
-					# province = 1672
-					
-					# color = { 0 235 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_gronn = {
-					# province = 1673
-					
-					# color = { 0 235 250 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-			# c_moesring = {
-				# color = { 25 225 255 }
-
-				# b_moesring = {
-					# province = 1675
-					
-					# color = { 25 225 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_frostmoon = {
-					# province = 1674
-					
-					# color = { 25 225 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_snowclad = {
-					# province = 1676
-					
-					# color = { 25 225 255 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-		# }
-		# d_snowfallow = {
-			# color = { 0 230 255 }
-			# color2 = { 0 0 0 }
-
-			# capital = c_fjalding
+					color = { 15 225 255 }
+					color2 = { 0 0 0 }
+				} 
+			}
+			c_thormoor = {
+				color = { 5 230 255 }
+				color2 = { 0 0 0 }
 			
-			# cultural_names = {
-				# skaal = cn_felsaad
-				# atmoran = cn_felsaad
-			# }
+				cultural_names = {
+					skaal = cn_varstaad
+					atmoran = cn_varstaad
+				}
 			
-			# c_fjalding = {
-				# color = { 0 230 255 }
-				# color2 = { 0 0 0 }
-
-				# b_fjalding = {
-					# province = 1701
-
-					# color = { 0 230 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_sjobal = {
-					# province = 1699
-
-					# color = { 0 230 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_gyldenhul = {
-					# province = 1700
-
-					# color = { 0 230 255 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-			# c_snowfallow = {
-				# color = { 0 210 255 }
-				# color2 = { 0 0 0 }
-
-				# b_snowfallow = {
-					# province = 1678
-
-					# color = { 0 210 255 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_vahlok = {
-					# province = 1677
-
-					# color = { 0 210 255 }
-					# color2 = { 0 0 0 }
-				# } 
-				# b_nchardak = {
-					# province = 1679
-
-					# color = { 0 210 255 }
-					# color2 = { 0 0 0 }
-				# } 
-			# }
-			# c_felsaad = {
-				# color = { 150 120 250 }
-				# color2 = { 0 0 0 }
-
-				# b_skaal = {
-					# province = 1666
+				b_thormoor_watch = {
+					province = 1670
 					
-					# color = { 150 120 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_frossel = {
-					# province = 1667
+					color = { 5 230 255 }
+					color2 = { 0 0 0 }
+				}
+				b_varstaad = {
+					province = 1669
 					
-					# color = { 150 120 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_rimhull = {
-					# province = 1668
+					color = { 5 230 255 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_harstrad = {
+				color = { 0 235 250 }
+			
+				b_harstrad = {
+					province = 1671
 					
-					# color = { 150 120 250 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-			# c_himmelhost = {
-				# color = { 150 120 250 }
-				# color2 = { 0 0 0 }
+					color = { 0 235 250 }
+					color2 = { 0 0 0 }
+				}
+				b_thrond = {
+					province = 1672
+					
+					color = { 0 235 250 }
+					color2 = { 0 0 0 }
+				}
+				b_gronn = {
+					province = 1673
+					
+					color = { 0 235 250 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_moesring = {
+				color = { 25 225 255 }
+			
+				b_moesring = {
+					province = 1675
+					
+					color = { 25 225 255 }
+					color2 = { 0 0 0 }
+				}
+				b_hvitkald = {
+					province = 1674
+					
+					color = { 25 225 255 }
+					color2 = { 0 0 0 }
+				}
+				b_snowclad = {
+					province = 1676
+					
+					color = { 25 225 255 }
+					color2 = { 0 0 0 }
+				}
+			}
+		}
+		d_snowfallow = {
+			color = { 0 230 255 }
+			color2 = { 0 0 0 }
+
+			capital = c_fjalding
+		
+			cultural_names = {
+				skaal = cn_felsaad
+				atmoran = cn_felsaad
+			}
+			
+			c_fjalding = {
+				color = { 0 230 255 }
+				color2 = { 0 0 0 }
+
+				b_fjalding = {
+					province = 1701
+
+					color = { 0 230 255 }
+					color2 = { 0 0 0 }
+				}
+				b_sjobal = {
+					province = 1699
+
+					color = { 0 230 255 }
+					color2 = { 0 0 0 }
+				}
+				b_gyldenhul = {
+					province = 1700
+
+					color = { 0 230 255 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_snowfallow = {
+				color = { 0 210 255 }
+				color2 = { 0 0 0 }
+
+				b_snowfallow = {
+					province = 1678
+
+					color = { 0 210 255 }
+					color2 = { 0 0 0 }
+				}
+				b_vahlok = {
+					province = 1677
+
+					color = { 0 210 255 }
+					color2 = { 0 0 0 }
+				} 
+				b_nchardak = {
+					province = 1679
+
+					color = { 0 210 255 }
+					color2 = { 0 0 0 }
+				} 
+			}
+			c_felsaad = {
+				color = { 150 120 250 }
+				color2 = { 0 0 0 }
+
+				b_skaal = {
+					province = 1666
+					
+					color = { 150 120 250 }
+					color2 = { 0 0 0 }
+				}
+				b_frossel = {
+					province = 1667
+					
+					color = { 150 120 250 }
+					color2 = { 0 0 0 }
+				}
+				b_rimhull = {
+					province = 1668
+					
+					color = { 150 120 250 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_himmelhost = {
+				color = { 150 120 250 }
+				color2 = { 0 0 0 }
 				
-				# b_himmelhost = {
-					# province = 1694
+				b_himmelhost = {
+					province = 1694
 					
-					# color = { 150 120 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_sathil = {
-					# province = 1692
+					color = { 150 120 250 }
+					color2 = { 0 0 0 }
+				}
+				b_sathil = {
+					province = 1692
 					
-					# color = { 150 120 250 }
-					# color2 = { 0 0 0 }
-				# }
-				# b_toralf = {
-					# province = 1693
+					color = { 150 120 250 }
+					color2 = { 0 0 0 }
+				}
+				b_toralf = {
+					province = 1693
 					
-					# color = { 150 120 250 }
-					# color2 = { 0 0 0 }
-				# }
-			# }
-		# }
-	# }
+					color = { 150 120 250 }
+					color2 = { 0 0 0 }
+				}
+			}
+		}
+	}
 }
