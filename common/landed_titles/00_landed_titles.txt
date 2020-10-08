@@ -16,7 +16,10 @@ e_ghost_sea = {
 	capital = c_volkihar
 
 }
-
+#################
+#Hammerfell Block
+#################
+# High Kingdom of Hammerfell
 e_hammerfell = {
 	color = { 255 125 0 }
 	color2 = { 0 0 0 }
@@ -2995,17 +2998,6 @@ e_hammerfell = {
 					color2 = { 0 0 0 }
 				}
 			}
-			c_stirk = {
-				color = { 90 50 40 }
-				color2 = { 0 0 0 }
-				
-				b_stirk = {
-					province = 477
-					
-					color = { 90 50 40 }
-					color2 = { 0 0 0 }
-				}
-			}
 		}
 		d_abecean = {
 			color = { 140 125 30 }
@@ -3084,6 +3076,10 @@ e_hammerfell = {
 		}
 	}
 }
+#################
+#Yokuda Block
+#################
+# Yokudan Empire
 e_yokuda = {
 	color = { 120 60 20 }
 	color2 = { 0 0 0 }
@@ -4068,6 +4064,10 @@ e_yokuda = {
 		}
 	}
 }
+################
+#High Rock Block
+################
+# High Kingdom of High Rock
 e_high_rock = {
 	color = { 170 170 170 }
 	color2 = { 220 220 20 }
@@ -6753,6 +6753,10 @@ e_high_rock = {
 		capital = c_grayhome
 	}
 }
+##############
+#Skyrim Block
+##############
+# High Kingdom of Skyrim
 e_skyrim = {
 	color = { 45 100 255 }
 	color2 = { 255 255 20 }
@@ -7850,10 +7854,25 @@ e_skyrim = {
 		capital = c_solitude
 		
 		cultural_names = {
-			westmarcher = cn_haafingar
-			eastmarcher = cn_haafingar
-			cyro_nord = cn_haafingar
+			#reachfolk
 			reachfolk = cn_kilkreath
+			#imperial
+			colovian = cn_solitude
+			nibenese = cn_solitude
+			imperial = cn_solitude
+			#nordic
+			skaal = cn_haafing
+			atmoran = cn_haafing
+			#breton
+			breton = cn_solitude
+			glenumbran = cn_solitude
+			northmen = cn_solitude
+			iliac = cn_solitude 	
+			bjoule = cn_solitude
+			#orsimer
+			mountain_orc = cn_khazgur
+			iron_orc = cn_khazgur
+			wood_orc = cn_khazgur
 		}
 		
 		d_solitude = {
@@ -11898,6 +11917,87 @@ e_skyrim = {
 					
 					color = { 150 120 250 }
 					color2 = { 0 0 0 }
+				}
+			}
+		}
+	}
+}
+################
+#Cyrodiil Block
+################
+# Cyrodiilic Empire
+e_cyrodiil = {
+
+	color = { 110 0 0 }
+	color2 = { 255 255 255 }
+
+	capital = c_stirk
+
+	cultural_names = {
+		ayleid = cn_cyrod
+	}
+
+	k_gold_coast = {
+		color = { 90 30 20 }
+		color2 = { 255 255 255 }
+
+		capital = c_stirk
+
+		d_stirk = {
+
+			capital = c_stirk
+
+			c_stirk = {
+				color = { 90 50 40 }
+				color2 = { 0 0 0 }
+				
+				b_stirk = {
+					province = 477
+					
+					color = { 90 50 40 }
+					color2 = { 0 0 0 }
+				}
+				b_garlas_stirtar = {
+					province = 1708
+
+					color = { 90 50 40 }
+					color2 = { 0 0 0 }
+				}
+			}
+		}
+		d_crowhaven = {
+			color = { 90 20 40 }
+			color2 = { 255 255 255 }
+
+			capital = c_crowhaven
+
+			cultural_names = {
+				ayleid = cn_garlas_malatar
+			}
+
+			c_crowhaven = {
+				color = { 90 10 30 }
+				color2 = { 255 255 255 }
+
+				b_jarol = {
+					province = 1710
+				}
+				b_crowhaven = {
+					province = 1709
+				}
+				b_garlas_malatar = {
+					province = 1711
+				}
+			}
+			c_duskwatch = {
+				color = { 90 10 30 }
+				color2 = { 255 255 255 }
+
+				b_duskwatch = {
+					province = 1712
+				}
+				b_beldaburo = {
+					province = 1713
 				}
 			}
 		}

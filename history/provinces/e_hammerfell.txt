@@ -586,15 +586,6 @@
 	holding = none
 }
 
-####c_stirk
-
-477 = { #b_stirk
-	culture = colovian
-	religion = imperial_cult
-	
-	holding = castle_holding
-}
-
 ####c_stros_mkai
 
 478 = { #b_port_hunding
