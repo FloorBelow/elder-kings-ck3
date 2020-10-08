@@ -2866,11 +2866,11 @@
 
 	 holding = tribal_holding
 }
- 1685 = { #b_severin
-	 holding = none
+1685 = { #b_severin
+	holding = none
 }
- 1686 = { #b_ravenmine
-	 holding = none
+1686 = { #b_ravenmine
+	holding = none
 }
 1688 = { #b_coldcinder
 	holding = none
