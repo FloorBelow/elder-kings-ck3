@@ -2517,13 +2517,13 @@ e_hammerfell = {
 		capital = c_abah_landing
 		
 		cultural_names = {
-			yokudan = cn_khefrem
-			crown = cn_khefrem
-			forebear = cn_khefrem
-			horsemen = cn_khefrem
-			lhotunic = cn_khefrem
-			abecean = cn_khefrem
-			alikr = cn_khefrem
+			yokudan = cn_khefrem_boot
+			crown = cn_khefrem_boot
+			forebear = cn_khefrem_boot
+			horsemen = cn_khefrem_boot
+			lhotunic = cn_khefrem_boot
+			abecean = cn_khefrem_boot
+			alikr = cn_khefrem_boot
 		}
 		
 		d_hnas = {
@@ -2707,6 +2707,16 @@ e_hammerfell = {
 		color2 = { 0 0 0 }
 		
 		capital = c_gilane
+
+		cultural_names = {
+			yokudan = cn_khefrem
+			crown = cn_khefrem
+			forebear = cn_khefrem
+			horsemen = cn_khefrem
+			lhotunic = cn_khefrem
+			abecean = cn_khefrem
+			alikr = cn_khefrem
+		}
 		
 		d_gilane = {
 			color = { 170 60 0 }
