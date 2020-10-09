@@ -9907,10 +9907,18 @@ e_skyrim = {
 			color2 = { 0 0 0 }
 
 			capital = c_riften
+
+			cultural_names = {
+				westmarcher = cn_rifton
+			}
 			
 			c_riften = {
 				color = { 100 140 200 }
 				color2 = { 0 0 0 }
+
+				cultural_names = {
+					westmarcher = cn_rifton
+				}
 				
 				b_mistveil_keep = {
 					province = 1047
@@ -9923,6 +9931,10 @@ e_skyrim = {
 
 					color = { 100 140 200 }
 					color2 = { 0 0 0 }
+
+					cultural_names = {
+						westmarcher = cn_rifton
+					}
 				}
 				b_merryfair = {
 					province = 1043
