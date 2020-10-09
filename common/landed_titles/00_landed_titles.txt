@@ -1,7 +1,9 @@
 ﻿@correct_culture_primary_score = 100
 @better_than_the_alternatives_score = 50
 @always_primary_score = 1000
-
+#################
+#Formable Titles
+#################
 e_tamriel = {
 	color = { 150 0 0 }
 	color2 = { 255 255 255 }
@@ -16,6 +18,14 @@ e_ghost_sea = {
 	capital = c_volkihar
 
 }
+# Orsinium - formable via decision
+### EK TODO create decision
+k_orsinium = {
+	color = { 100 150 70 }
+	color2 = { 255 255 255 }
+
+	capital = c_shipwreck_coast
+}
 #################
 #Hammerfell Block
 #################
@@ -25,6 +35,19 @@ e_hammerfell = {
 	color2 = { 0 0 0 }
 	
 	capital = c_sentinel
+
+	cultural_names = {
+	#reachfolk
+	reachfolk = cn_deathlands
+	kothringi = cn_deathlands
+	#aldmeri
+	balfiera = cn_volenfell
+	ayleid = cn_volenfell 
+	alinor  = cn_volenfell
+	auridon = cn_volenfell
+	#dwemer
+	dwemer = cn_volenfell
+	}
 	
 	k_sentinel = {
 		color = { 255 125 0 }
@@ -4082,6 +4105,9 @@ e_high_rock = {
 		
 		cultural_names = {
 			balfiera = cn_ada_mantia
+			ayleid = cn_ada_mantia 
+			alinor  = cn_ada_mantia
+			auridon = cn_ada_mantia
 		}
 		
 		d_balfiera = {
@@ -4092,6 +4118,9 @@ e_high_rock = {
 			
 			cultural_names = {
 				balfiera = cn_ada_mantia
+				ayleid = cn_ada_mantia 
+				alinor  = cn_ada_mantia
+				auridon = cn_ada_mantia
 			}
 			
 			c_balfiera = {
@@ -5796,6 +5825,15 @@ e_high_rock = {
 		color2 = { 0 0 0 }
 		
 		capital = c_wrothgar
+
+		cultural_names = {
+			#breton
+			breton = cn_west_reach
+			glenumbran = cn_west_reach
+			northmen = cn_west_reach
+			iliac = cn_west_reach	
+			bjoule = cn_west_reach
+		}
 	
 		d_wrothgar = {
 			color = { 90 125 150 }
@@ -7386,6 +7424,16 @@ e_skyrim = {
 			cyro_nord = cn_hjaalmarch
 			atmoran = cn_drajkmyr 
 			skaal = cn_drajkmyr 
+			#imperial
+			colovian = cn_morthal
+			nibenese = cn_morthal
+			imperial = cn_morthal
+			#breton
+			breton = cn_morthal
+			glenumbran = cn_morthal
+			northmen =cn_morthal
+			iliac = cn_morthal 	
+			bjoule = cn_morthal
 		}
 			
 		d_morthal = {
@@ -8996,6 +9044,7 @@ e_skyrim = {
 		color2 = { 0 0 0 }
 		
 		cultural_names = {
+			#orsimer
 			mountain_orc = cn_falcrenth
 			iron_orc = cn_falcrenth
 			wood_orc = cn_falcrenth
@@ -10831,6 +10880,15 @@ e_skyrim = {
 		color2 = { 0 0 0 }
 
 		capital = c_markarth
+
+		cultural_names = {
+			#breton
+			breton = cn_east_reach
+			glenumbran = cn_east_reach
+			northmen = cn_east_reach
+			iliac = cn_east_reach 	
+			bjoule = cn_east_reach
+		}
 			
 		d_markarth = {
 			color = { 130 190 200 }
