@@ -12028,12 +12028,24 @@ e_skyrim = {
 			c_snowfallow = {
 				color = { 0 210 255 }
 				color2 = { 0 0 0 }
+				
+				cultural_names = {
+					skaal = cn_valbrandr
+					atmoran = cn_valbrandr
+					#dunmer = cn_ashfallow
+				}
 
 				b_snowfallow = {
 					province = 1678
 
 					color = { 0 210 255 }
 					color2 = { 0 0 0 }
+					
+					cultural_names = {
+						skaal = cn_valbrandr
+						atmoran = cn_valbrandr
+						#dunmer = cn_ashfallow
+					}
 				}
 				b_vahlok = {
 					province = 1677
@@ -12086,6 +12098,12 @@ e_skyrim = {
 					
 					color = { 150 120 250 }
 					color2 = { 0 0 0 }
+					
+					cultural_names = {
+						skaal = cn_skogsdrake
+						atmoran = cn_skogsdrake
+						#dunmer = cn_ashfallow
+					}
 				}
 				b_toralf = {
 					province = 1693
