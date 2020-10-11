@@ -320,7 +320,7 @@
 43 = { #b_tangle_rock
 	holding = none
 }
-58 = { #b_hag_fen
+1715 = { #b_yeorth
 	holding = none
 }
 
@@ -1446,5 +1446,17 @@ holding = none
 	holding = none
 }
 573 = { #b_hartcroft
+	holding = none
+}
+
+####c_cryngaine
+
+1716 = { #b_cryngaine
+	culture = glenumbran
+	religion = breton_cult
+	
+	holding = castle_holding
+}
+58 = { #b_hag_fen
 	holding = none
 }

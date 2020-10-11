@@ -1707,16 +1707,14 @@
 1706;4;18;13;solstheim_mountains_5;x;
 1707;4;18;12;solstheim_mountains_6;x;
 1708;124;0;18;b_garlas_stirtar;x;
-
 1709;140;84;39;b_crowhaven;x;
 1710;181;109;50;b_jarol;x;
 1711;201;121;56;b_garlas_malatar;x;
 1712;181;119;72;b_duskwatch;x;
 1713;204;134;81;b_beldaburo;x;
 1714;188;122;75;b_knightsgrave;x;
-
-# 1715;67;76;84;b_diagnad;x;
-# 1716;139;126;191;b_ret_aki;x;
+1715;0;186;68;b_yeorth;x;
+1716;84;86;173;b_cryngaine;x;
 # 1717;103;94;142;b_aruhir;x;
 # 1718;108;122;137;b_sobatu;x;
 # 1719;84;95;107;b_karnver;x;

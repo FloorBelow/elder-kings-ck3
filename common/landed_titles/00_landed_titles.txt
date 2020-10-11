@@ -46,7 +46,7 @@ e_hammerfell = {
 	alinor  = cn_volenfell
 	auridon = cn_volenfell
 	#dwemer
-	dwemer = cn_volenfell
+	#dwemer = cn_volenfell
 	}
 	
 	k_sentinel = {
@@ -4319,14 +4319,14 @@ e_high_rock = {
 				color = { 30 190 210 }
 				color2 = { 0 0 0 }
 				
-				b_guardians_vale = {
-					province = 29
+				b_valewatch = {
+					province = 30
 					
 					color = { 30 190 210 }
 					color2 = { 0 0 0 }
 				}
-				b_valewatch = {
-					province = 30
+				b_guardians_vale = {
+					province = 29
 					
 					color = { 30 190 210 }
 					color2 = { 0 0 0 }
@@ -4834,10 +4834,27 @@ e_high_rock = {
 					color = { 105 120 75 }
 					color2 = { 0 0 0 }
 				}
+				b_yeorth = {
+					province = 1715
+					
+					color = { 105 120 100 }
+					color2 = { 0 0 0 }
+				}
+			}
+			c_cryngaine = {
+				color = { 125 110 65 }
+				color2 = { 0 0 0 }
+				
+				b_cryngaine = {
+					province = 1716
+					
+					color = { 125 110 65 }
+					color2 = { 0 0 0 }
+				}
 				b_hag_fen = {
 					province = 58
 					
-					color = { 105 120 100 }
+					color = { 125 110 65 }
 					color2 = { 0 0 0 }
 				}
 			}
@@ -6879,7 +6896,7 @@ e_skyrim = {
 	cultural_names = {
 		#aldmeris
 		ayleid = cn_falmereth
-		falmer = cn_falmereth
+		#falmer = cn_falmereth
 	}
 
 	capital = c_windhelm

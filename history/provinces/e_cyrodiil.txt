@@ -31,6 +31,9 @@
 ####c_duskwatch
 
 1712 = { #b_duskwatch
+	culture = colovian
+	religion = imperial_cult
+	
 	holding = castle_holding
 }
 1713 = { #b_beldaburo
