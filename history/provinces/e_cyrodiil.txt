@@ -36,3 +36,6 @@
 1713 = { #b_beldaburo
 	holding = none
 }
+1714 = { #b_knightsgrave
+	holding = none
+}

@@ -869,9 +869,9 @@
 	holding = city_holding
 }
 
-####c_gauvadon
+####c_gavaudon
 
-185 = { #b_gauvadon
+185 = { #b_gavaudon
 	culture = iliac
 	religion = breton_cult
 	
@@ -1130,9 +1130,9 @@ holding = none
 	holding = none
 }
 
-####c_yeorth
+####c_oxshire
 
-512 = { #b_yeorth
+512 = { #b_oxham
 	culture = bjoule
 	religion = breton_cult
 	
