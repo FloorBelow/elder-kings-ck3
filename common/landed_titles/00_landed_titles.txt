@@ -5601,14 +5601,14 @@ e_high_rock = {
 					color2 = { 0 0 0 }
 				}
 			}
-			c_norvulk = {
+			c_cumberland = {
 				color = { 100 255 180 }
 				color2 = { 250 250 250 }
 				
-				b_norvulk = {
-					province = 178
+				b_cumberland = {
+					province = 176
 					
-					color = { 100 255 180 }
+					color = { 100 255 210 }
 					color2 = { 0 0 0 }
 				}
 				b_pariah_abbey = {
@@ -5617,10 +5617,10 @@ e_high_rock = {
 					color = { 100 255 195 }
 					color2 = { 0 0 0 }
 				}
-				b_cumberland = {
-					province = 176
+				b_norvulk = {
+					province = 178
 					
-					color = { 100 255 210 }
+					color = { 100 255 180 }
 					color2 = { 0 0 0 }
 				}
 				b_moonlit_maw = {

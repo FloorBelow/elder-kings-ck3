@@ -103,7 +103,7 @@ c_koegria = {
 	3350.1.1 = { holder = beanique_1000 }
 }
 
-c_norvulk = {
+c_cumberland = {
 	3350.1.1 = { holder = cumberland_1000 }
 }
 

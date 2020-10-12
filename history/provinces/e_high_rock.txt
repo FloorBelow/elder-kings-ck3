@@ -827,9 +827,9 @@
 	holding = none
 }
 
-####c_norvulk
+####c_cumberland
 
-178 = { #b_norvulk
+176 = { #b_cumberland
 	culture = iliac
 	religion = breton_cult
 	
@@ -838,7 +838,7 @@
 175 = { #b_pariah_abbey
 	holding = church_holding
 }
-176 = { #b_cumberland
+178 = { #b_norvulk
 	holding = none
 }
 177 = { #b_moonlit_maw
