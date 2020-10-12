@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "orsimer_longhouse_01_a_mesh"
+	file = "orsimer_longhouse_01_a.mesh"
+
+	meshsettings = {
+		name = "Plane"
+		index = 0
+		texture_diffuse = "building_western_atlas_diffuse.dds"
+		texture_normal = "building_western_atlas_normal.dds"
+		texture_specular = "building_western_atlas_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "orsimer_longhouse_01_a_entity"
+	pdxmesh = "orsimer_longhouse_01_a_mesh"
+}
