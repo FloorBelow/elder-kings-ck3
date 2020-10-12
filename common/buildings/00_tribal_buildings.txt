@@ -17,6 +17,16 @@ tribe_01 = {
 		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
 	}
 
+	asset = {
+		type = pdxmesh
+		names = {
+			"orsimer_longhouse_01_a_mesh"
+		}
+		graphical_cultures = { orsimer_building_gfx }
+		illustration = @holding_illustration_grass
+		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
+	}
+
 	is_enabled = {
 		building_requirement_tribal = yes
 	}
@@ -55,6 +65,16 @@ tribe_02 = {
 			"western_castle_tribal_01_c_mesh"
 			"western_castle_tribal_01_d_mesh"
 		}
+		illustration = @holding_illustration_grass
+		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
+	}
+
+	asset = {
+		type = pdxmesh
+		names = {
+			"orsimer_longhouse_01_a_mesh"
+		}
+		graphical_cultures = { orsimer_building_gfx }
 		illustration = @holding_illustration_grass
 		soundeffect = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Holdings/City/tribal_city" soundparameter = { "Tier" = 0 } }
 	}
