@@ -231,7 +231,7 @@
 275=mountains
 276=mountains
 277=steppe
-278=steppe
+278=tundra
 279=tundra
 280=taiga
 281=taiga
